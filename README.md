@@ -17,7 +17,6 @@ I also run a **Telegram channel** where I share market insights, personal succes
 - 🐦 Twitter: [@IceFrosTv2](https://x.com/IceFrosTv2)
 - 📸 Instagram: [@icefrostv2](https://www.instagram.com/icefrostv2/)
 - 💬 Discord: zkrollup
-- 🔗 [My Solana Validator](https://stakewiz.com/validator/89DXJe6XTDASsmyXJoPyRetLq1csRj9N2Bwn67fNvYGt)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IceFrosTv2&show_icons=true&theme=radical)
